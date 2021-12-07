@@ -1,2 +1,2 @@
 # Java Projects
-Contains sample coding assignments and projects for my masters program at Johns Hopkins.
+<p>Contains sample coding assignments and projects.</p>

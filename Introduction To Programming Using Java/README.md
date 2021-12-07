@@ -1,3 +1,3 @@
 # Introduction to Programming Using Java
  
-<p>Java programming language is used to introduce foundations of structured, procedural, and object-oriented programming. Topics include input/output, data types, operators, program control flow structures, arrays, strings, and methods. Additional topics include classes, objects, inheritance, polymorphism, exception handling, processing streams and files, collections, wrappers, and generics, and graphical user interfaces.
+<p>Java programming language is used to introduce foundations of structured, procedural, and object-oriented programming. Topics include input/output, data types, operators, program control flow structures, arrays, strings, and methods. Additional topics include classes, objects, inheritance, polymorphism, exception handling, processing streams and files, collections, wrappers, and generics, and graphical user interfaces.</p>

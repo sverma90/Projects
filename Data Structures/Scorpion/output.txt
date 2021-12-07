@@ -1,0 +1,693 @@
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	X	X	7H	5H	QH	X
+KD	QD	JD	3H	2C	9S	8D	
+7C	7S	8C	6D	4H	9H	AS	
+JC	4D	KC	JH	4C	10C	3D	
+7D	AH	10S	2H	8S	10D	3C	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	X	X	7H	5H	QH	X
+KD	QD	JD	3H	2C	9S	8D	
+7C	_	8C	6D	4H	9H	AS	
+JC	_	KC	JH	4C	10C	3D	
+7D	_	10S	2H	8S	10D	3C	
+_	_	_	_	7S	_	_	
+_	_	_	_	4D	_	_	
+_	_	_	_	AH	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	6C	X	7H	5H	QH	X
+KD	QD	_	3H	2C	9S	8D	
+7C	JD	_	6D	4H	9H	AS	
+JC	8C	_	JH	4C	10C	3D	
+7D	KC	_	2H	8S	10D	3C	
+_	10S	_	_	7S	_	_	
+_	_	_	_	4D	_	_	
+_	_	_	_	AH	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	6C	X	7H	5H	QH	X
+KD	QD	_	3H	2C	9S	8D	
+7C	JD	_	_	4H	9H	AS	
+JC	8C	_	_	4C	10C	3D	
+7D	KC	_	_	8S	10D	3C	
+6D	10S	_	_	7S	_	_	
+JH	_	_	_	4D	_	_	
+2H	_	_	_	AH	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	6C	X	7H	5H	QH	X
+KD	QD	_	3H	2C	9S	8D	
+7C	JD	_	2H	4H	9H	AS	
+JC	8C	_	_	4C	10C	3D	
+7D	KC	_	_	8S	10D	3C	
+6D	10S	_	_	7S	_	_	
+JH	_	_	_	4D	_	_	
+_	_	_	_	AH	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	6C	X	7H	5H	QH	X
+KD	QD	_	3H	_	9S	8D	
+7C	JD	_	2H	_	9H	AS	
+JC	8C	_	_	_	10C	3D	
+7D	KC	_	_	_	10D	3C	
+6D	10S	_	_	_	_	2C	
+JH	_	_	_	_	_	4H	
+_	_	_	_	_	_	4C	
+_	_	_	_	_	_	8S	
+_	_	_	_	_	_	7S	
+_	_	_	_	_	_	4D	
+_	_	_	_	_	_	AH	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	9D	X
+X	X	X	X	4S	5S	QC	X
+X	X	6C	X	7H	5H	QH	X
+KD	QD	_	3H	_	_	8D	
+7C	JD	_	2H	_	_	AS	
+JC	8C	_	_	_	_	3D	
+7D	KC	_	_	_	_	3C	
+6D	10S	_	_	_	_	2C	
+JH	9S	_	_	_	_	4H	
+_	9H	_	_	_	_	4C	
+_	10C	_	_	_	_	8S	
+_	10D	_	_	_	_	7S	
+_	_	_	_	_	_	4D	
+_	_	_	_	_	_	AH	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	_	X
+X	X	X	X	4S	5S	_	X
+X	X	6C	X	7H	5H	_	X
+KD	QD	_	3H	_	_	_	
+7C	JD	_	2H	_	_	_	
+JC	8C	_	_	_	_	_	
+7D	KC	_	_	_	_	_	
+6D	10S	_	_	_	_	_	
+JH	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	4H	_	_	_	_	_	
+_	4C	_	_	_	_	_	
+_	8S	_	_	_	_	_	
+_	7S	_	_	_	_	_	
+_	4D	_	_	_	_	_	
+_	AH	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+X	X	X	X	4S	5S	7C	X
+5C	X	6C	X	7H	5H	JC	X
+_	QD	_	3H	_	_	7D	
+_	JD	_	2H	_	_	6D	
+_	8C	_	_	_	_	JH	
+_	KC	_	_	_	_	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	4H	_	_	_	_	_	
+_	4C	_	_	_	_	_	
+_	8S	_	_	_	_	_	
+_	7S	_	_	_	_	_	
+_	4D	_	_	_	_	_	
+_	AH	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+_	X	6C	X	7H	5H	JC	X
+_	QD	5C	3H	_	_	7D	
+_	JD	_	2H	_	_	6D	
+_	8C	_	_	_	_	JH	
+_	KC	_	_	_	_	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	4H	_	_	_	_	_	
+_	4C	_	_	_	_	_	
+_	8S	_	_	_	_	_	
+_	7S	_	_	_	_	_	
+_	4D	_	_	_	_	_	
+_	AH	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+_	X	6C	X	7H	5H	JC	X
+_	QD	5C	3H	_	4H	7D	
+_	JD	_	2H	_	4C	6D	
+_	8C	_	_	_	8S	JH	
+_	KC	_	_	_	7S	_	
+_	10S	_	_	_	4D	_	
+_	9S	_	_	_	AH	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+_	X	6C	X	7H	5H	JC	X
+_	QD	5C	3H	_	4H	7D	
+_	JD	4C	2H	_	_	6D	
+_	8C	8S	_	_	_	JH	
+_	KC	7S	_	_	_	_	
+_	10S	4D	_	_	_	_	
+_	9S	AH	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	X	7H	5H	JC	X
+AH	QD	5C	3H	_	4H	7D	
+_	JD	4C	2H	_	_	6D	
+_	8C	8S	_	_	_	JH	
+_	KC	7S	_	_	_	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	X	7H	5H	JC	X
+_	QD	5C	3H	_	4H	7D	
+_	JD	4C	2H	_	_	6D	
+_	8C	8S	AH	_	_	JH	
+_	KC	7S	_	_	_	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	3D	_	_	_	_	_	
+_	3C	_	_	_	_	_	
+_	2C	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	X	7H	5H	JC	X
+3D	QD	5C	3H	_	4H	7D	
+3C	JD	4C	2H	_	_	6D	
+2C	8C	8S	AH	_	_	JH	
+_	KC	7S	_	_	_	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	KH	7H	5H	JC	X
+3D	QD	5C	_	_	4H	7D	
+3C	JD	4C	_	_	3H	6D	
+2C	8C	8S	_	_	2H	JH	
+_	KC	7S	_	_	AH	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	QH	_	_	_	_	_	
+_	8D	_	_	_	_	_	
+_	AS	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	KH	7H	5H	JC	X
+3D	QD	5C	QH	_	4H	7D	
+3C	JD	4C	8D	_	3H	6D	
+2C	8C	8S	AS	_	2H	JH	
+_	KC	7S	_	_	AH	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	X	X	4S	5S	7C	X
+4D	X	6C	KH	7H	5H	_	X
+3D	QD	5C	QH	_	4H	_	
+3C	JD	4C	8D	_	3H	_	
+2C	8C	8S	AS	_	2H	_	
+_	KC	7S	_	_	AH	_	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	JC	_	_	_	_	_	
+_	7D	_	_	_	_	_	
+_	6D	_	_	_	_	_	
+_	JH	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	X
+5D	X	KS	X	4S	5S	7C	X
+4D	X	_	KH	7H	5H	6C	X
+3D	QD	_	QH	_	4H	5C	
+3C	JD	_	8D	_	3H	4C	
+2C	8C	_	AS	_	2H	8S	
+_	KC	_	_	_	AH	7S	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	JC	_	_	_	_	_	
+_	7D	_	_	_	_	_	
+_	6D	_	_	_	_	_	
+_	JH	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	O
+5D	X	KS	X	4S	5S	7C	O
+4D	X	3S	KH	7H	5H	6C	O
+3D	QD	_	QH	_	4H	5C	
+3C	JD	_	8D	_	3H	4C	
+2C	8C	_	AS	_	2H	8S	
+10H	KC	_	_	_	AH	7S	
+_	10S	_	_	_	_	_	
+_	9S	_	_	_	_	_	
+_	9H	_	_	_	_	_	
+_	10C	_	_	_	_	_	
+_	10D	_	_	_	_	_	
+_	9D	_	_	_	_	_	
+_	QC	_	_	_	_	_	
+_	JC	_	_	_	_	_	
+_	7D	_	_	_	_	_	
+_	6D	_	_	_	_	_	
+_	JH	_	_	_	_	_	
+_	6H	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	O
+5D	X	KS	X	4S	5S	7C	O
+4D	X	3S	KH	7H	5H	6C	O
+3D	QD	_	QH	_	4H	5C	
+3C	JD	_	8D	_	3H	4C	
+2C	8C	_	AS	_	2H	8S	
+10H	KC	_	_	_	AH	7S	
+9H	10S	_	_	_	_	_	
+10C	9S	_	_	_	_	_	
+10D	_	_	_	_	_	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+6H	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	2S	JS	KD	O
+5D	X	KS	X	4S	5S	7C	O
+4D	X	3S	KH	7H	5H	6C	O
+3D	QD	_	QH	6H	4H	5C	
+3C	JD	_	8D	_	3H	4C	
+2C	8C	_	AS	_	2H	8S	
+10H	KC	_	_	_	AH	7S	
+9H	10S	_	_	_	_	_	
+10C	9S	_	_	_	_	_	
+10D	_	_	_	_	_	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	_	JS	KD	O
+5D	X	KS	X	_	5S	7C	O
+4D	X	3S	KH	_	5H	6C	O
+3D	QD	2S	QH	_	4H	5C	
+3C	JD	4S	8D	_	3H	4C	
+2C	8C	7H	AS	_	2H	8S	
+10H	KC	6H	_	_	AH	7S	
+9H	10S	_	_	_	_	_	
+10C	9S	_	_	_	_	_	
+10D	_	_	_	_	_	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	5H	6C	O
+3D	QD	2S	QH	_	4H	5C	
+3C	JD	4S	8D	_	3H	4C	
+2C	8C	7H	AS	_	2H	8S	
+10H	_	6H	_	_	AH	7S	
+9H	_	_	_	_	_	_	
+10C	_	_	_	_	_	_	
+10D	_	_	_	_	_	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	_	6C	O
+3D	QD	2S	QH	_	_	5C	
+3C	JD	4S	8D	_	_	4C	
+2C	8C	7H	AS	_	_	8S	
+10H	_	6H	_	_	_	7S	
+9H	_	5H	_	_	_	_	
+10C	_	4H	_	_	_	_	
+10D	_	3H	_	_	_	_	
+9D	_	2H	_	_	_	_	
+QC	_	AH	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	4S	6C	O
+3D	QD	2S	QH	_	7H	5C	
+3C	JD	_	8D	_	6H	4C	
+2C	8C	_	AS	_	5H	8S	
+10H	_	_	_	_	4H	7S	
+9H	_	_	_	_	3H	_	
+10C	_	_	_	_	2H	_	
+10D	_	_	_	_	AH	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	4S	6C	O
+3D	QD	2S	QH	_	7H	5C	
+3C	JD	AS	8D	_	6H	4C	
+2C	8C	_	_	_	5H	8S	
+10H	_	_	_	_	4H	7S	
+9H	_	_	_	_	3H	_	
+10C	_	_	_	_	2H	_	
+10D	_	_	_	_	AH	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+7D	_	_	_	_	_	_	
+6D	_	_	_	_	_	_	
+JH	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	4S	6C	O
+3D	QD	2S	QH	_	7H	5C	
+3C	JD	AS	8D	_	6H	4C	
+2C	8C	_	7D	_	5H	8S	
+10H	_	_	6D	_	4H	7S	
+9H	_	_	JH	_	3H	_	
+10C	_	_	_	_	2H	_	
+10D	_	_	_	_	AH	_	
+9D	_	_	_	_	_	_	
+QC	_	_	_	_	_	_	
+JC	_	_	_	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	7C	O
+4D	X	3S	KH	9S	4S	6C	O
+3D	QD	2S	QH	_	7H	5C	
+3C	JD	AS	8D	_	6H	4C	
+2C	8C	_	7D	_	5H	8S	
+_	_	_	6D	_	4H	7S	
+_	_	_	JH	_	3H	_	
+_	_	_	10H	_	2H	_	
+_	_	_	9H	_	AH	_	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	_	O
+4D	X	3S	KH	9S	4S	_	O
+3D	QD	2S	QH	_	7H	_	
+3C	JD	AS	8D	_	6H	_	
+2C	8C	_	7D	_	5H	_	
+_	7C	_	6D	_	4H	_	
+_	6C	_	JH	_	3H	_	
+_	5C	_	10H	_	2H	_	
+_	4C	_	9H	_	AH	_	
+_	8S	_	10C	_	_	_	
+_	7S	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	3S	KH	9S	4S	JD	O
+3D	_	2S	QH	_	7H	8C	
+3C	_	AS	8D	_	6H	7C	
+2C	_	_	7D	_	5H	6C	
+_	_	_	6D	_	4H	5C	
+_	_	_	JH	_	3H	4C	
+_	_	_	10H	_	2H	8S	
+_	_	_	9H	_	AH	7S	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	3S	KH	9S	4S	JD	O
+3D	7H	2S	QH	_	_	8C	
+3C	6H	AS	8D	_	_	7C	
+2C	5H	_	7D	_	_	6C	
+_	4H	_	6D	_	_	5C	
+_	3H	_	JH	_	_	4C	
+_	2H	_	10H	_	_	8S	
+_	AH	_	9H	_	_	7S	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	_	KH	9S	4S	JD	O
+3D	7H	_	QH	_	3S	8C	
+3C	6H	_	8D	_	2S	7C	
+2C	5H	_	7D	_	AS	6C	
+_	4H	_	6D	_	_	5C	
+_	3H	_	JH	_	_	4C	
+_	2H	_	10H	_	_	8S	
+_	AH	_	9H	_	_	7S	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	_	KH	9S	4S	JD	O
+3D	7H	_	QH	8S	3S	8C	
+3C	6H	_	8D	7S	2S	7C	
+2C	5H	_	7D	_	AS	6C	
+_	4H	_	6D	_	_	5C	
+_	3H	_	JH	_	_	4C	
+_	2H	_	10H	_	_	_	
+_	AH	_	9H	_	_	_	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	_	KH	9S	4S	JD	O
+3D	7H	_	QH	8S	3S	8C	
+_	6H	_	8D	7S	2S	7C	
+_	5H	_	7D	_	AS	6C	
+_	4H	_	6D	_	_	5C	
+_	3H	_	JH	_	_	4C	
+_	2H	_	10H	_	_	3C	
+_	AH	_	9H	_	_	2C	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+
+O	O	O	O	
+
+X	X	X	X	KC	JS	KD	O
+5D	X	KS	X	10S	5S	QD	O
+4D	8H	_	KH	9S	4S	JD	O
+3D	7H	_	QH	8S	3S	8C	
+_	6H	_	8D	7S	2S	7C	
+_	5H	_	7D	_	AS	6C	
+_	4H	_	6D	_	_	5C	
+_	3H	_	JH	_	_	4C	
+_	2H	_	10H	_	_	3C	
+_	AH	_	9H	_	_	2C	
+_	_	_	10C	_	_	_	
+_	_	_	10D	_	_	_	
+_	_	_	9D	_	_	_	
+_	_	_	QC	_	_	_	
+_	_	_	JC	_	_	_	
+_	_	_	_	_	_	_	
+
+ Computer Loses.

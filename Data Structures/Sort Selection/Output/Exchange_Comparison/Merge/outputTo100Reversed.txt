@@ -1,0 +1,4 @@
+100
+Reversed
+Comparison for Merge Sort: 3384
+Exchange for Merge Sort: 4404

@@ -1,0 +1,4 @@
+2000
+Random
+Comparison for Merge Sort: 182244
+Exchange for Merge Sort: 224244

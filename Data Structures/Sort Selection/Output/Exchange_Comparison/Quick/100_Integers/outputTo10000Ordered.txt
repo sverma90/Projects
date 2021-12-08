@@ -1,0 +1,4 @@
+10000
+Ordered
+Comparison for Sort to 100 Sort: 49989950
+Exchange for Sort to 100 Sort: 9999

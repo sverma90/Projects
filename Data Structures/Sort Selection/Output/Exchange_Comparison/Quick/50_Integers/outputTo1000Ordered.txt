@@ -1,0 +1,4 @@
+1000
+Ordered
+Comparison for Sort to 50 Sort: 498225
+Exchange for Sort to 50 Sort: 999

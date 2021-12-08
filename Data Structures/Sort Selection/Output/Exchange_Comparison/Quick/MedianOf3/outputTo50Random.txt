@@ -1,0 +1,4 @@
+50
+Random
+Comparison for Median of 3 Quick Sort: 217
+Exchange for Median of 3 Quick Sort: 239

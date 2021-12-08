@@ -1,0 +1,4 @@
+5000
+Ordered
+Comparison for Regular Sort: 12497500
+Exchange for Regular Sort: 4999

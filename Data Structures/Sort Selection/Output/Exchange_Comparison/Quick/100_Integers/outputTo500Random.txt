@@ -1,0 +1,4 @@
+500
+Random
+Comparison for Sort to 100 Sort: 9562
+Exchange for Sort to 100 Sort: 8490

@@ -1,0 +1,4 @@
+5000
+Reversed
+Comparison for Sort to 100 Sort: 12494950
+Exchange for Sort to 100 Sort: 9949

@@ -1,0 +1,4 @@
+50
+Ordered
+Comparison for Heap Sort: 347
+Exchange for Heap Sort: 270

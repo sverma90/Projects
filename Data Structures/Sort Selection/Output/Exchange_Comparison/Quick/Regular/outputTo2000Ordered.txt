@@ -1,0 +1,4 @@
+2000
+Ordered
+Comparison for Regular Sort: 1999000
+Exchange for Regular Sort: 1999

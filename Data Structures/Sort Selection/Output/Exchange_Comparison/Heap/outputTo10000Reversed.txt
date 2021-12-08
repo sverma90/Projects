@@ -1,0 +1,4 @@
+10000
+Reversed
+Comparison for Heap Sort: 158619
+Exchange for Heap Sort: 116696

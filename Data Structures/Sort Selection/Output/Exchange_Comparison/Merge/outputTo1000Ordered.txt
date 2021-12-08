@@ -1,0 +1,4 @@
+1000
+Ordered
+Comparison for Merge Sort: 41317
+Exchange for Merge Sort: 52628

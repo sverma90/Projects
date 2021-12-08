@@ -1,0 +1,4 @@
+100
+Reversed
+Comparison for Regular Sort: 4900
+Exchange for Regular Sort: 99

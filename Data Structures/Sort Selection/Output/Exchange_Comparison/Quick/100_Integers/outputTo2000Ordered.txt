@@ -1,0 +1,4 @@
+2000
+Ordered
+Comparison for Sort to 100 Sort: 1993950
+Exchange for Sort to 100 Sort: 1999

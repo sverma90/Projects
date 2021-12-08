@@ -1,0 +1,4 @@
+1000
+Ordered
+Comparison for Heap Sort: 13463
+Exchange for Heap Sort: 9708

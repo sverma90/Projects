@@ -1,0 +1,4 @@
+1000
+Random
+Comparison for Regular Sort: 10069
+Exchange for Regular Sort: 2608

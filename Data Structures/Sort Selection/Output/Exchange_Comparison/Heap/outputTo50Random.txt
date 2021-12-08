@@ -1,0 +1,4 @@
+50
+Random
+Comparison for Heap Sort: 298
+Exchange for Heap Sort: 245

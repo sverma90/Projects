@@ -1,0 +1,4 @@
+10000
+Reversed
+Comparison for Median of 3 Quick Sort: 119522
+Exchange for Median of 3 Quick Sort: 40900

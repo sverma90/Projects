@@ -1,0 +1,4 @@
+50
+Ordered
+Comparison for Sort to 50 Sort: 49
+Exchange for Sort to 50 Sort: 49

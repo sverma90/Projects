@@ -1,0 +1,4 @@
+1000
+Random
+Comparison for Sort to 50 Sort: 14529
+Exchange for Sort to 50 Sort: 10211

@@ -1,0 +1,4 @@
+50
+Reversed
+Comparison for Sort to 50 Sort: 1176
+Exchange for Sort to 50 Sort: 1177

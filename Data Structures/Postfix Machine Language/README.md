@@ -32,3 +32,7 @@
 | ML | Multiply |
 | DV | Divide |
 | EX | Exponential |
+
+<br>
+
+![Runtime Screenshot](https://github.com/sverma90/Java-Projects/blob/main/Data%20Structures/Postfix%20Machine%20Language/RunTime_Screenshot.png?raw=true "Runtime Screenshot")

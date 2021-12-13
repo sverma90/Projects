@@ -73,3 +73,10 @@
 <p>You must keep track of each contender’s position and display it each time positions change. Show the letter "T" in the position of the tortoise, and the letter "H" in the position of the Hare. It is possible for the contenders to land on the same square. When this happens, the tortoise bites the hare, and your program should display "OUCH!!" beginning at that square. All output positions other than the "T", the "H", and the "OUCH!!" should be blank.</p>
 
 <p>If the tortoise wins, display "TORTOISE WINS!!". If the hare wins, display "HARE WINS!!". If the race is a tie, display "IT’S A TIE!!". At the beginning of the race, display "AND THEY’RE OFF!!".</p>
+
+<br>
+
+![Runtime Screenshot](https://github.com/sverma90/Java-Projects/blob/main/Introduction%20To%20Programming%20Using%20Java/Tortoise%20vs.%20Hare%20Race/Pseudocode.png?raw=true "Runtime Screenshot")
+![Runtime Screenshot](https://github.com/sverma90/Java-Projects/blob/main/Introduction%20To%20Programming%20Using%20Java/Tortoise%20vs.%20Hare%20Race/Hare_wins_output.png?raw=true "Runtime Screenshot")
+![Runtime Screenshot](https://github.com/sverma90/Java-Projects/blob/main/Introduction%20To%20Programming%20Using%20Java/Tortoise%20vs.%20Hare%20Race/Race_is_tie_output.png?raw=true "Runtime Screenshot")
+![Runtime Screenshot](https://github.com/sverma90/Java-Projects/blob/main/Introduction%20To%20Programming%20Using%20Java/Tortoise%20vs.%20Hare%20Race/Tortoise_wins_with_ouch_statement.png?raw=true "Runtime Screenshot")

@@ -7,4 +7,4 @@ For example, if your input is *AB then output should be AB*. Output of BA* is co
 
 <br>
 
-![Alt text](/RunTime_Screenshot.png?raw=true "Title")
+![Image](https://github.com/sverma90/Java-Projects/blob/main/Data%20Structures/Prefix%20to%20PostFix/RunTime_Screenshot.png?raw=true "Title")

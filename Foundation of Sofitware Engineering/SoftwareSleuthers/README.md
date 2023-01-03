@@ -1,7 +1,6 @@
 # Software Sleuthers Group Project
 
-Hello, World!
-
+This includes the clueless game. 
 
 ## Git workflow
 

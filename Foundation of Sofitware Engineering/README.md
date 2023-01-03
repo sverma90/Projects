@@ -1,0 +1,3 @@
+# Foundations of Software Engineering
+ 
+<p>This course focuses on software engineering techniques and methodologies that are used during software development. Topics include various life cycle models, project planning and estimation, requirements analysis, program design, construction, testing, maintenance and implementation, software measurement, and software quality. Emphasized are structured and object-oriented analysis and design techniques, use of process and data models, modular principles of software design, and a systematic approach to testing and debugging. The importance of problem specification, programming style, periodic reviews, documentation, thorough testing, and ease of maintenance are covered.</p>

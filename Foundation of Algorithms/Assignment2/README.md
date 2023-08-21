@@ -9,20 +9,6 @@
 <p>For example, given a string x consisting of 0s and 1s, we write xk to denote k copies of x concatenated together. We say that string x′ is a repetition of x if it is a prefix of xk for some number k. So, x′ = 101101101 is a repetition of x = 101. We say that a string s is an interweaving of x and y if its symbols can be partitioned into two (not necessarily contiguous) subsequence s′ and s′′ so that s′ is a repetition of x and s′′ is a repetition of y. Each symbol in s must belong to exactly one of s’ of s”. For example, if x = 101 and y = 0, then s = 100010101 is an interweaving of x and y since characters 1,2,5,7,8, and 9 form 101101 – a repetition of x – and the remaining characters 3,4,6 form 000 – a repetition of y. In terms of our application, x and y are the repeating sequences from the two ships, and s is the signal we are receiving. We want to make sure s “unravels” into  simple repetitions of x and y. 
 </p>
 
-### Brief Outline of File Structure
-
-<p>Within the directory, the file structure includes the following files:</p>
-
-<ul>
-    <li><strong>iw.py</strong> - Main algorithm function that merges 2 sorted list into one complete list. </li>
-    <li><strong>main.py</strong> - Sample Main with print statements and input error checking provided to run the program.</li>
-    <li><strong>test.py</strong> - Sample test file to test parts of program.</li>
-    <li><strong>Assignment2Analysis</strong> - Analysis of Assignment 2 by student.</li>
-    <li><strong>__pycache__</strong> - Cache files of runtime (program generated).</li>
-    <li><strong>README.md</strong> - Brief introduction of the program and includes how to run the program.</li>
-    <li><strong>Runtime Snippet</strong> - Directory that contains all screenshots, also used in analysis.</li>
-</ul>
-
 ### How To Run The Code
 
 <p>To run the program, simply open a terminal window, cd into the Assignment2_Final directory, and type: <em>python main.py</em> with your 3 arguments for x, y s. As an example: <em>python main.py 101 0 1010101</em>.</p>
